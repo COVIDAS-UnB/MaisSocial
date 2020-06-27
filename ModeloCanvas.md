@@ -61,7 +61,7 @@ Administrações regionais;
 <p>
 Secretaria de Cultura do DF;
 <p>
-Bibliotecas públicas do DF; \
+Bibliotecas públicas do DF; 
 Bibliotecas comunitárias do DF. 
    </td>
   </tr>
@@ -86,17 +86,17 @@ serve de modelo a iniciativas semelhantes em bibliotecas escolares e afins.
    <td><strong>Custo: </strong>
 <ol>
 
-<li><strong>internet: </strong>pacotes de internet para aquelas que não possuem
+<li><strong> Internet: </strong> pacotes de internet para aquelas que não possuem
 
-<li>média de preço de planos de internet: R$ 99,99 - 139,99
+-   Média de preço de planos de internet: R$ 99,99 - 139,99
 
 <li><strong>Dispositivos (PC/Tablet/Notebook): </strong>
 
-<li>PC/Notebook: cerca de 2 por unidade, com o preço mínimo de R$1100,00 cada, no total, R$ 57200,00
+- PC/Notebook: cerca de 2 por unidade, com o preço mínimo de R$1100,00 cada, no total, R$ 57200,00
 
-<li>Tablet: 2 por unidade, R$350,00, no total, R$18200,00
+- Tablet: 2 por unidade, R$350,00, no total, R$18200,00
 
-<li><strong>escritório: </strong>Espaço e equipamentos da própria UnB
+<li><strong>Escritório: </strong>Espaço e equipamentos da própria UnB
 
 <li><strong>Materiais de limpeza:</strong> orçamentos a pesquisar
 </li>
