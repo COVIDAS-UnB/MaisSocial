@@ -13,14 +13,18 @@
 
 O objetivo do projeto é mediar a implementação de uma rede colaborativa para disponibilizar acesso aos espaços e às tecnologias adequados aos estudos.
 
-Para uma descrição detalahada do processo confira os documentos
- - [Template](docs/template.docx.pdf)
- - [Projeto](docs/projeto_mentoria.pdf)
+Para uma descrição detalahada do processo confira os documentos:
+- [Documento](docs/Projeto_MaisSocial_UniverCidade.pdf)
+- [Apresentação](docs/UniverCidade.pdf)
+
+### Pitch 
+
+[![](http://img.youtube.com/vi/HQ28NjMHeVM/0.jpg)](http://www.youtube.com/watch?v=HQ28NjMHeVM)
 
 ### Aplicativo
 
 Para a reserva dos locais de estudo será usado como auxílio um App para reservas. Foi desenvolvido um protótipo de alta fidelidade  que pode ser acessado no link: [Protótipo](https://www.figma.com/proto/I96PeBKolDmdZDEeHhNNiH/Reserva-de-hor%C3%A1rio-biblioteca?node-id=103%3A5&scaling=scale-down)
 
-<img src="imgs/app.png" alt="img" width="150"/>
-
-
+<center>
+    <img src="imgs/app.png" alt="img" width="200"/>
+</center>
